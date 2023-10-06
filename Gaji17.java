@@ -5,7 +5,7 @@ public class Gaji17 {
     //Deklarasi
     int jmlMasuk, JmlTdkMasuk, TotGaji;
     int gaji, potGaji;
-    
+    //output
     System.out.print("Masukkan Jumlah Hari Masuk Kerja Anda\t\t: ");
     jmlMasuk=input.nextInt();
     System.out.print("Masukkan Jumlah Hari Tidak Masuk Kerja Anda\t: ");
