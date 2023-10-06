@@ -5,7 +5,7 @@ public class Lingkaran17 {
  //Deklarasi
  int r;
  double keliling, luas, phi = 3.14;
-//Output
+
  System.out.print("Masukkan jari-jari lingkaran: ");
  r=input.nextInt();
  keliling= 2*phi*r;
